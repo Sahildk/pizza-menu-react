@@ -91,7 +91,7 @@ function Menu() {
 
 function Pizza(props) {
   return (
-    <div>
+    <div className="pizza">
       <img src={props.photoName} alt={props.name}></img>
       <div className="pizza">
         <h3>{props.name}</h3>
