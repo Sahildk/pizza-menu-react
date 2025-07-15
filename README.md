@@ -19,7 +19,6 @@ This is a responsive Pizza Menu web app built using **React**. It showcases a dy
 - Interactive pizza listing
 - Conditional rendering (e.g., sold-out pizzas)
 - Clean and readable component structure
-- Responsive layout for different screen sizes
 - Status-based messages (e.g., Open Now / Closed)
 
 ## 🧠 What I Learned
